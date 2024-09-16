@@ -62,7 +62,7 @@ export default function Home() {
           style={{ opacity: 0.6 }}
         />
         <div className="text-md text-medium gray-8 mt-3">
-          Know more about your data
+          Know more about your model
         </div>
 
         {isSampleDataset && (
